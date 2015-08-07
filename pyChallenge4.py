@@ -23,4 +23,4 @@ while True:
 
 
 #answer peak.html
-#url HINT: http://www.pythonchallenge.com/pc/def/peak.html
+#url http://www.pythonchallenge.com/pc/def/peak.html
