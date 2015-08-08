@@ -1,7 +1,3 @@
-import fnmatch
-import os
-import datetime
-
 __author__ = 'Scott'
 #pyChallenge 6
 #url: http://www.pythonchallenge.com/pc/def/channel.html
