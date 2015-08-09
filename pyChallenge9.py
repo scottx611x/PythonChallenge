@@ -62,7 +62,7 @@ draw = ImageDraw.Draw(i)
 draw.line(tupFirst,fill="#FF0000",width=4)
 draw.line(tupSecond,fill="#FF0000", width=4)
 i.show()
-
+i.save("bull.jpg")
 #This shows the outline of a cow??
 
 # NOT A COW  BUT A BULL!!
